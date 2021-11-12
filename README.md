@@ -42,7 +42,7 @@ Create data story
 Draw conclusions
 
 Organization within the team:
-We will be working in pairs splitting each of the 3 sections described in the timeline into 2 groups of subtasks. 
+We will be working in pairs splitting each of the 3 sections described in the timeline. 
 First 2 weeks: one group will focus on cleaning the data and integrate the additional datasets while the other two will focus on the implementation of external libraries, tokenize pipeline and APIs.
 Third week: One group will focus on additional metrics for the paiwise analyses, while the other will work to aggregate data for various subests.
 Last 2 weeks: one group will focus on creating interactive visualization of the data while the other will create and comment the data story. Final reviews will be made together.
