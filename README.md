@@ -1,5 +1,17 @@
+Updated for Milestone 3:
+It is possible to find the website containing the datastory at the link: https://robertominini.github.io/Watch-your-words/
+
+Members contribution:
+- Francesco Borg: preliminary data cleaning, loading of the dataset, Obama/Trump/Clinton/Biden comparison, definition of the metrics
+- Roberto Ceraolo: configuration of the API, preparation of the website, definition of the metrics
+- Arturo Cerasi: graphical representations, merge with external datasets, comparison on the U. S. congress dataset
+- Roberto Minini: preliminary data cleaning, preparation of the website, comparisons
+
+The notebook containig all the results and the code can be found at 
+Disclaimer: multiple graphs in the notebook have ben built using the Plotly library, it may happen that looking at the notebook already run those graphs does not display, for this reason some screenshots of them have been included in the notebook. To look them and use them please go to the data story website.
+
 Title: 
-“Analyzing US Politicians Lexical Level” 
+“Watch your words” 
 
 Abstract:
 In recent years we often get the feeling that the level of the political debate has been quickly degrading. There seems to be a tendency, especially from populist candidates to propose extremely simplified solutions to complex problems. This is reflected in the ways politicians communicate with the public. Watching US presidential elections’ debates, as well as similar ones between Italian politicians, analysts noticed the significant difference in the complexity of the language used by the two sides. It’s often populist politicians using less refined language, very similar to spoken language, with a restricted use of vocabulary. The goal of this analysis is to apply an analytical methodology to this matter by scoring quotes by US politicians’ on a lexical diversity basis as well as complexity, using Flesch–Kincaid and MTLD measures. Finally we will compare aggregated scores by prominent figures of US politics and multiple sets of politicians grouped by affiliation, etc. 
