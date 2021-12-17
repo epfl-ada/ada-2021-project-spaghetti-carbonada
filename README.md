@@ -7,9 +7,14 @@ Members contribution:
 - Arturo Cerasi: graphical representations, merge with external datasets, comparison on the U. S. congress dataset
 - Roberto Minini: preliminary data cleaning, preparation of the website, comparisons
 
+Additional Dataset used:
+- Voteview, used to get all the data about the politicians, pary data and demographic data.
+- Biographical Directory of the United States Congress, used to retrive the names of the politicians to merge Voteview and Quotebank.
+
 The notebook containig all the results and the code can be found at 
 Disclaimer: multiple graphs in the notebook have ben built using the Plotly library, it may happen that looking at the notebook already run those graphs does not display, for this reason some screenshots of them have been included in the notebook. To look them and use them please go to the data story website.
 
+Mileston 2:
 Title: 
 “Watch your words” 
 
