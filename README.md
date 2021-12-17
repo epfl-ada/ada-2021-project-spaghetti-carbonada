@@ -3,7 +3,7 @@ It is possible to find the website containing the datastory at the link: https:/
 
 Members contribution:
 - Francesco Borg: preliminary data cleaning, loading of the dataset, Obama/Trump/Clinton/Biden comparison, definition of the metrics
-- Roberto Ceraolo: configuration of the API, preparation of the website, definition of the metrics
+- Roberto Ceraolo: configuration of the API, preparation of the website, setup of remote server for hosting the interactive map
 - Arturo Cerasi: graphical representations, merge with external datasets, comparison on the U. S. congress dataset
 - Roberto Minini: preliminary data cleaning, preparation of the website, comparisons
 
